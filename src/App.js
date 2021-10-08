@@ -1,5 +1,4 @@
 import './App.css';
-// import AddItem from './AddItem';
 import ListTable from './ListTable';
 import ListSelection from './ListSelection';
 
