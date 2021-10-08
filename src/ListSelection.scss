@@ -1,0 +1,14 @@
+.list-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .list-selection {
+    margin-right: 30px;
+  
+    &__item-details {
+      list-style-type: none;
+      text-align: left;
+    }
+  }
