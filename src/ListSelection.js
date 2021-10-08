@@ -4,7 +4,6 @@ import { useSelector } from "react-redux";
 
 export default function ListSelection() {
   const selectedItem = useSelector((state) => state.selectedItem);
-  console.log('====>', selectedItem);
   return (
       <div className="list-selection">
           <h3> List Selection </h3>
