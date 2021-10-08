@@ -2,7 +2,7 @@
 
 Clone repository.
 
-cd MarketTestApp
+cd list-app
 
 Run npm install
 
